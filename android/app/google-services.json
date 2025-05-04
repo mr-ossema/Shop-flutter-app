@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1068612373766",
+    "firebase_url": "https://face-recognit-default-rtdb.firebaseio.com",
+    "project_id": "face-recognit",
+    "storage_bucket": "face-recognit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068612373766:android:3db5b41990e406e795e287",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cL8lcjyCddxWzgER-Bl2Dm_Yes44PxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
